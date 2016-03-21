@@ -1,0 +1,3 @@
+[submodule "simplehttp"]
+	path = simplehttp
+	url = git@github.com:mtib/simplehttp
